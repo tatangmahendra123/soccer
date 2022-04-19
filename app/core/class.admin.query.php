@@ -13,9 +13,9 @@
 	|
     |----------------------------------------|
     | Author          			 			 |
-	| name 			  : ahmadza 			 | 
-	| mail 			  : myroot593@gmail.com  |
-	| blog 			  : root93.co.id         |  
+	| name 			  : Benny maulana 			 | 
+	| mail 			  : innupasha2@gmail.com  |
+	| blog 			  : xdmultimedia.id         |  
 	|----------------------------------------| 
 
  	******************************************************************
